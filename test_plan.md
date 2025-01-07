@@ -29,8 +29,8 @@ Testing will be done manually using a checklist to structure the tasks.
 
 ### 3.2. Software
 Browsers:
-- Google Chrome, Firefox, Opera (Windows 11)
-- Yandex, Safari (macOS 10.13.6)
+- Google Chrome, Opera (Windows 11)
+- Yandex (macOS 10.13.6)
 
 Tools:
 - Visual Studio Code for documentation in .md format
